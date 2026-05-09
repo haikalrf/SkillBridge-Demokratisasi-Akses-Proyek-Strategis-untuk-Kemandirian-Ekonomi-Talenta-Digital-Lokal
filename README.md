@@ -4,8 +4,8 @@
 
 | Kategori       | Teknologi |
 |---------------|----------|
-| Framework     | VSCode FullStack |
-| Bahasa        | Kalbu |
+| Framework     | Laravel |
+| Bahasa        | PHP |
 | UI & Styling  | ? |
 | Ikon          | ? |
 | Animasi       | ? |
